@@ -13,7 +13,7 @@
       },
       "chapters": [
         {
-          "id": "ch_skincare_prep",
+          "id": "ch_skincare_prep_1",
           "title": "Introduction to Makeup",
           "video_id": "jvAqpTyP6TE",
           "description": "A masterpiece requires a prepared canvas. In this segment, we distinguish between nighttime skincare and 'pre-makeup' skincare. Learn the correct layering technique for hydration to prevent makeup from looking dry or cakey later.",
@@ -120,7 +120,7 @@
           ]
         },    
         {
-          "id": "ch_dry_products_packaging",
+          "id": "ch_dry_products_packaging_2",
           "title": "The Sterile Artist: Professional Hygiene Protocols",
           "video_id": "RyoivcL4f-M",
           "description": "Before a single brush touches a face, the environment must be safe. This module establishes the non-negotiable hygiene protocols that separate hobbyists from professionals. We will cover the sanitization of every texture—powder, cream, and liquid—ensuring you protect both your kit and your client. These habits form the foundation for all future application modules.",
@@ -201,7 +201,7 @@
           ]
         },
         {
-          "id": "ch_face_architecture_tools",
+          "id": "ch_face_architecture_tools_3",
           "title": "The Artist's Toolkit: Brush Mechanics & Maintenance",
           "video_id": "C6ztKdLfMaE",
           "description": "A makeup artist is only as good as their tools. In this critical technical module, we classify brushes not just by name, but by fluid dynamics—how they move product. You will master the physics of blending (Density vs. Diffusion), select the correct tool for every texture, and learn the professional hygiene standards required to maintain your kit's longevity.",
@@ -294,7 +294,7 @@
           ]
         },  
         {
-          "id": "course_skin_preparation",
+          "id": "course_skin_preparation_4",
           "title": "The Canvas Protocol: Advanced Skin Prep Strategy",
           "video_id": "BwtQ4oAxpiQ",
           "description": "Makeup is only as good as the skin beneath it. In this module, we move beyond basic washing to 'Textural Engineering.' Learn to micro-exfoliate without irritation, create a magnetic grip for foundation, and strategically control oil without deadening the complexion. This creates the necessary surface for Module 6: Base Routine",
@@ -403,7 +403,7 @@
       },
       "chapters": [
         {
-          "id": "course_color_theory_skin_science",
+          "id": "course_color_theory_skin_science_1",
           "title": "Chromatic Control: The Science of Color Correction",
           "video_id": "wvLOlSPcNMg",
           "description": "We begin with the fundamental rule of the Color Wheel: Opposites Cancel. This segment focuses on identifying 'dullness' and purple tones often found in fair skin or veins, and using Pastel Yellow to erase them without heavy product.",
@@ -492,7 +492,7 @@
           ]
         },
         {
-          "id": "course_makeup_basics_base_routine",
+          "id": "course_makeup_basics_base_routine_2",
           "title": "Flawless Base Mechanics (Primer & Foundation)",
           "video_id": "p6nAirxV2DQ",
           "description": "A flawless look begins with a bulletproof base. In this core module, we transition from skin prep (Module 4) to the actual application of complexion products. You will master the 'Tap & Buff' technique to ensure longevity, learn to distinguish between 'Coverage' and 'Highlighting' with concealer, and execute the 'Baby Bake' method to lock in your work without looking cakey.",
@@ -584,7 +584,7 @@
           ]
         },
         {
-          "id": "course_contouring_highlighting",
+          "id": "course_contouring_highlighting_3",
           "title": "Architectural Face Sculpting: Light & Shadow Physics",
           "video_id": "uXifKDhEfo4",
           "description": "Foundation made your canvas flawless, but it also made it flat. Now, we bring 3D dimension back. In this module, you will master the optical illusions of pushing features back (Contour) and bringing them forward (Highlight). We will tackle the critical distinction between 'Bronzing' and 'Sculpting' and how to layer textures for longevity..",
@@ -687,7 +687,7 @@
       },
       "chapters": [
         {
-          "id": "course_eyebrow_architecture",
+          "id": "course_eyebrow_architecture_1",
           "title": "Brow Architecture: Framing the Face",
           "video_id": "UF0xVHOPdXs",
           "description": "Brows are the frame of the face. In this module, we move away from the 'Block Brow' of the past and embrace the 'Realistic Hair Stroke' technique. Whether your client has full brows or sparse growth, you will learn to map, fluff, and sketch natural-looking brows that lift the eyes and define the features, preparing the canvas for the eye makeup in the upcoming Module",
@@ -779,7 +779,7 @@
           ]
         },
         {
-          "id": "course_eyes_makeup",
+          "id": "course_eyes_makeup_2",
           "title": "Structural Eye Contouring: The Physics of Blending",
           "video_id": "ZiRYa5X04u8",
           "description": "In this module, we apply the rules of Light and Shadow (Module 9 preview) specifically to the eye socket. You will master the 'Golden Rule of Brush Sizing', learn to balance the upper and lower lash lines, and use texture to manipulate the shape of the eye.",
@@ -872,7 +872,7 @@
           ]
         },
         {
-          "id": "course_lip_makeup",
+          "id": "course_lip_makeup_3",
           "title": "Lip Sculpture & Texture",
           "video_id": "7OCes9Eubxs",
           "description": "Anyone can swipe on a lipstick. An artist knows how to manipulate one product into four distinct textures. In this section, we master the 'Lip Wardrobe' concept: transforming a single bullet into a Stain, a Velvet Matte, a Classic Cream, and a High-Gloss Lacquer. You will also master the 'Lip-Cheek Harmony' technique to unify your color story.",
@@ -978,7 +978,7 @@
       },
       "chapters": [
         {
-          "id": "ch_skin_tint_philosophy",
+          "id": "ch_skin_tint_philosophy_1",
           "title": "The 'Clean Girl' Aesthetic: Day Makeup Look",
           "video_id": "yh4H-BvuND0",
           "description": "Abandon heavy coverage. This section shifts focus from coverage to enhancement, utilizing skin tints, cream textures, and strategic placement to create a fresh, professional, and office-appropriate appearance that enhances natural features rather than masking them.",
@@ -1067,7 +1067,7 @@
           ]
         },    
         {
-          "id": "course_night_makeup_glam",
+          "id": "course_night_makeup_glam_2",
           "title": "Soft Glam: The Modern Night Look",
           "video_id": "e78Z8hjqYjk",
           "description": "Night makeup requires durability. This module teaches the art of 'Soft Glam'—a high-impact but breathable look perfect for events. You will learn to layer cream and powder for longevity (sweat-proofing), create a lifted 'Cat Eye' structure using simple techniques, and master the strategic placement of shimmer for low-light environments.",
@@ -1146,7 +1146,7 @@
           ]
         },
         {
-          "id": "course_bridal_mastery",
+          "id": "course_bridal_mastery_3",
           "title": "Makeup for Bridal Mastery & High-Stakes Photography",
           "video_id": "8zNnNaiEQ34",
           "description": "Bridal artistry is the Olympics of makeup. It requires a look that survives tears, sweat, and flash photography for 12+ hours. In this module, we combine every skill from previous sections into a 'Bulletproof Protocol'. Learn the 'Pinpoint' coverage technique to avoid cakey skin in photos, the 'Sandwich' method for blush and lips, and how to navigate client preferences versus professional opinion.",
@@ -1212,7 +1212,7 @@
           ]
         },
         {
-          "id": "course_makeup_for_events",
+          "id": "course_makeup_for_events_4",
           "title": "Makeup for Events (Occasion): The Glow-Proof",
           "video_id": "_aCd0IK7RA4",
           "description": "Event makeup has a difficult job: it must glow under dim lights but stay matte in the T-zone for photos. In this module, we master the 'Strategic Glow' technique. You will learn to lock in a luminous base using 'Micro-Baking', create a soft but dramatic 'Shadow Wing' that won't smudge like liquid liner, and use blush as the structural bridge for your face sculpting.",
@@ -1312,7 +1312,7 @@
       },
       "chapters": [
         {
-          "id": "ch_sculpting_foundation",
+          "id": "ch_sculpting_foundation_1",
           "title": "Editorial Edge: The Graphic Liner & Bronze Skin",
           "video_id": "k-qCYZy_600",
           "description": "Fashion makeup is about structure, texture, and pushing boundaries. In this advanced module, you will learn to sculpt the face using multiple shades of foundation (instead of powder contour), execute a precise, elongated 'Cleopatra' graphic liner, and use glitter not as a sparkle, but as a texture element.",
@@ -1405,7 +1405,7 @@
           ]
         }, 
         {
-          "id": "course_makeup_trends_latte",
+          "id": "course_makeup_trends_latte_2",
           "title": "Viral Trends Decoded: The 'Latte Makeup' Look",
           "video_id": "H4A0rK5gc2k",
           "description": "Master the viral 'Latte Makeup' trend using affordable drugstore products. This monochrome, bronzy look is about effortless glam. We'll break down the specific techniques for creating a seamless, warm-toned base, sculpting with creams and powders, and achieving that signature diffused, smoky latte eye. Remember your Color Theory (Module 3) for selecting the right bronze tones!",
@@ -1516,7 +1516,7 @@
       },
       "chapters": [
         {
-          "id": "course_sfx_halloween",
+          "id": "course_sfx_halloween_1",
           "title": "SFX Gore & Illusion: The Open Wound Technique",
           "video_id": "0cvgZjy7FJM",
           "description": "In this module, we step away from 'beauty' and focus on realism and anatomy. You will learn to construct a realistic 3D prosthetic directly on the skin using latex and tissue, master the color wheel of bruising (purple, red, yellow), and apply stage blood for varying textures (scab vs. fresh). Warning: This module involves simulated gore.",
@@ -1606,7 +1606,7 @@
           ]
         }, 
         {
-          "id": "course_tattoo_coverage_body_art",
+          "id": "course_tattoo_coverage_body_art_2",
           "title": "Invisible Ink: Professional Tattoo Camouflage",
           "video_id": "FRq3CItiKT4",
           "description": "In this specialized module, you will learn to erase tattoo ink not by piling on heavy concealer, but by using optical neutralization and alcohol-activated pigments to mimic the translucency and texture of real skin. Essential for film, bridal, and editorial work.",
@@ -1712,7 +1712,7 @@
       },
       "chapters": [
         {
-          "id": "ch_brand_community",
+          "id": "ch_brand_community_1",
           "title": "Making Money as an Artist",
           "video_id": "_zJE_ULCaQU",
           "description": "Being a talented artist is only 50% of the job. In this crucial final module, we pivot from application to entrepreneurship. You will learn how to build a personal brand on social media (specifically YouTube), the reality of monetization and client management, and how to diversify your income so you aren't reliant on just one source.",
