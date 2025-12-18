@@ -1,0 +1,1813 @@
+{
+  "version": 1,
+  "courses": [
+    {
+      "id": "course_introduction_to_makeup",
+      "title": "The Essentials – Mastering the Basics",
+      "thumbnail": "assets/thumbnails/intro_makeup_course.jpg",
+      "description": "In this section, you will learn the absolute must-haves for a successful application, how to choose the right brushes on a budget, how to prep the skin for a smooth finish, and the professional hygiene rules to keep your kit safe",
+      "sequence_order": 1,
+      "syllabus_context": {
+        "current_module": "Introduction to Makeup",
+        "prerequisites_active": "None - This course sets the stage for the core syllabus sections."
+      },
+      "chapters": [
+        {
+          "id": "ch_skincare_prep",
+          "title": "Introduction to Makeup",
+          "video_id": "jvAqpTyP6TE",
+          "description": "A masterpiece requires a prepared canvas. In this segment, we distinguish between nighttime skincare and 'pre-makeup' skincare. Learn the correct layering technique for hydration to prevent makeup from looking dry or cakey later.",
+          "channel_name": "HALEY KIM",
+          "start": 0,
+          "end": 693,
+          "xp_reward": 100,
+          "key_learning_outcomes": [
+            "Understand the purpose of pre-makeup skincare vs. nighttime skincare.",
+            "Master the correct layering order: Toner, Serum, Moisturizer, Sunscreen.",
+            "Learn application techniques to ensure even absorption.",
+             "Match brush density to foundation consistency (runny vs. thick).",
+            "Differentiate between foundation coverage and concealer spot treatment.",
+            "Understand the technique of damp sponge tapping for setting.",
+              "Learn the '360-degree load and tap' technique for powder products.",
+            "Understand natural blush and contour placement.",
+            "Master defined, non-clumpy mascara application.",
+            "Select appropriate lip colors for natural looks."
+          ],
+          "tasks": [
+            {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the skincare products in the correct order for pre-makeup prep to ensure optimal hydration and protection.",
+              "items": [
+                "Moisturizer (Seal hydration)",
+                "Toner (Smooth base)",
+                "Sunscreen (Protection)",
+                "Serum (Deep hydration)"
+              ],
+              "solution": [
+                "Toner (Smooth base)",
+                "Serum (Deep hydration)",
+                "Moisturizer (Seal hydration)",
+                "Sunscreen (Protection)"
+              ]
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "You are applying moisturizer to a client. To ensure the most even application across the 'canvas', which technique do you use?",
+              "options": [
+                "Apply a large dollop to the center and rub vigorously outwards.",
+                "Tap gently over the face first, then spread from the center outwards.",
+                "Apply only to the outer edges of the face to avoid an oily T-zone."
+              ],
+              "solution": "Tap gently over the face first, then spread from the center outwards.",
+              "feedback": "Correct. Tapping first distributes the product evenly before you begin spreading, preventing too much product from accumulating in one area."
+            },   {
+              "type": "tool_mastery",
+              "instruction": "A client brings you a very thick, high-coverage cream foundation. Which tool do you select for the best natural application?",
+              "options": [
+                "A flat, thin foundation brush",
+                "A dense buffing brush",
+                "Fingertips only"
+              ],
+              "solution": "A dense buffing brush",
+              "feedback": "Excellent. As the video highlights, thick consistency requires a denser brush to buff the product into the skin for a natural finish."
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "Your client has general redness across their cheeks but a specific, dark hyperpigmentation spot on their chin. What is your course of action?",
+              "options": [
+                "Use a heavy layer of foundation over the entire face to cover everything.",
+                "Use foundation to even the overall redness, then go back with concealer specifically on the chin spot.",
+                "Use concealer over the whole face instead of foundation."
+              ],
+              "solution": "Use foundation to even the overall redness, then go back with concealer specifically on the chin spot.",
+              "feedback": "Perfect. Foundation is for general evening of tone; concealer is meant for targeted, high-coverage spot work. Using foundation for spots often leads to a cakey base."
+            },     {
+              "type": "technique_audit",
+              "instruction": "You are observing an assistant apply powder blush. The result looks patchy and too intense in one spot. What step did they likely skip based on the video's advice?",
+              "options": [
+                "They used the wrong color.",
+                "They didn't turn the brush 360 degrees to load it evenly and forgot to tap off excess.",
+                "They applied it to the apple of the cheek instead of the temple."
+              ],
+              "solution": "They didn't turn the brush 360 degrees to load it evenly and forgot to tap off excess.",
+              "feedback": "Exactly. Loading the brush evenly and tapping off the excess is crucial for a diffused, natural powder application."
+            },
+            {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the steps for achieving defined, non-clumpy mascara eyelashes.",
+              "items": [
+                "Apply directly to lashes from the tube.",
+                "Remove excess product from the wand onto a paper towel.",
+                "Wiggle the wand through the lashes."
+              ],
+              "solution": [
+                "Remove excess product from the wand onto a paper towel.",
+                "Apply directly to lashes from the tube.",
+                "Wiggle the wand through the lashes."
+              ]
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "You are applying contour to a beginner client for a natural shadow effect. Where do you start your application?",
+              "options": [
+                "Start at the center of the cheek and blend backward.",
+                "Start from the temple/hairline and slowly blend forward.",
+                "Start directly under the jawline."
+              ],
+              "solution": "Start from the temple/hairline and slowly blend forward.",
+              "feedback": "Correct. Starting at the perimeter (hairline/temple) and blending inward creates the most natural shadow, as opposed to placing a harsh line in the center of the face."
+            }
+          ]
+        },    
+        {
+          "id": "ch_dry_products_packaging",
+          "title": "The Sterile Artist: Professional Hygiene Protocols",
+          "video_id": "RyoivcL4f-M",
+          "description": "Before a single brush touches a face, the environment must be safe. This module establishes the non-negotiable hygiene protocols that separate hobbyists from professionals. We will cover the sanitization of every texture—powder, cream, and liquid—ensuring you protect both your kit and your client. These habits form the foundation for all future application modules.",
+          "channel_name": "Sinead Cady",
+          "start": 0,
+          "end": 131,
+          "xp_reward": 150,
+          "key_learning_outcomes": [
+            "Identify the correct sanitizing agent (Surgical Spirits/Alcohol) for makeup.",
+            "Master the routine for cleaning outer packaging to prevent cross-contamination.",
+            "Learn the 'Spray and Dry' technique for pressed powders.",
+            "Understand the 'No Double Dipping' rule for creams and liquids.",
+            "Utilize disposable wands correctly for mascara and gloss.",
+            "Master the multi-step sterilization process for eye and lip pencils.",
+            "Introduction to the Steel Palette as a sanitary surface."
+          ],
+          "tasks": [
+            {
+              "type": "tool_mastery",
+              "instruction": "Select the primary agent required to effectively sanitize makeup products as described in the video.",
+              "options": [
+                "Water and Soap mist",
+                "Surgical Spirits or Rubbing Alcohol (in a spray bottle)",
+                "Makeup Setting Spray"
+              ],
+              "solution": "Surgical Spirits or Rubbing Alcohol (in a spray bottle)",
+              "feedback": "Correct. Alcohol effectively kills bacteria and evaporates quickly, unlike water which breeds bacteria, or setting spray which seals it."
+            },
+            {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the steps to correctly sanitize a pressed powder compact.",
+              "items": [
+                "Spray the powder surface directly.",
+                "Leave to air dry naturally.",
+                "Wipe the outer packaging with an alcohol-soaked cotton pad."
+              ],
+              "solution": [
+                "Wipe the outer packaging with an alcohol-soaked cotton pad.",
+                "Spray the powder surface directly.",
+                "Leave to air dry naturally."
+              ]
+            },  {
+              "type": "beauty_simulation",
+              "instruction": "You are about to apply mascara to a client. To adhere to strict hygiene standards, which method do you use?",
+              "options": [
+                "Use the wand from the tube, apply, and put it back.",
+                "Use a disposable wand, dip it in the tube, apply, and throw it away.",
+                "Use a disposable wand, dip, apply, dip again to get more product."
+              ],
+              "solution": "Use a disposable wand, dip it in the tube, apply, and throw it away.",
+              "feedback": "Correct! Never double dip. If you need more product, you must use a fresh disposable wand every single time you enter the tube."
+            },
+            {
+              "type": "routine_sequencer",
+              "instruction": "You need to sanitize an eye pencil before using it on a client's waterline. Arrange the steps.",
+              "items": [
+                "Sharpen the pencil to remove the outer layer.",
+                "Wipe the pencil body with alcohol.",
+                "Clean and disinfect the sharpener."
+              ],
+              "solution": [
+                "Clean and disinfect the sharpener.",
+                "Wipe the pencil body with alcohol.",
+                "Sharpen the pencil to remove the outer layer."
+              ]
+            },
+            {
+              "type": "tool_mastery",
+              "instruction": "Why does the educator recommend a steel makeup palette for professional use?",
+              "options": [
+                "It looks more expensive.",
+                "It is poreless, easy to disinfect, and great for mixing.",
+                "It absorbs excess oil from products."
+              ],
+              "solution": "It is poreless, easy to disinfect, and great for mixing.",
+              "feedback": "Exactly. Unlike plastic or skin (back of hand), steel can be completely sterilized with alcohol, ensuring a safe mixing surface."
+            }
+          ]
+        },
+        {
+          "id": "ch_face_architecture_tools",
+          "title": "The Artist's Toolkit: Brush Mechanics & Maintenance",
+          "video_id": "C6ztKdLfMaE",
+          "description": "A makeup artist is only as good as their tools. In this critical technical module, we classify brushes not just by name, but by fluid dynamics—how they move product. You will master the physics of blending (Density vs. Diffusion), select the correct tool for every texture, and learn the professional hygiene standards required to maintain your kit's longevity.",
+          "channel_name": "Smitha Deepak",
+          "start": 0,
+          "end": 1140,
+          "xp_reward": 100,
+          "key_learning_outcomes": [
+            "Differentiate between Beauty Sponges (sheer/thin) and Kabuki Brushes (full coverage/thick).",
+            "Select the correct bristle density for Contour (Sharp vs. Diffused).",
+            "Understand the impact of synthetic vs. natural hair on product payoff.",
+             "Master the 'Blending Formula': Large brush for transition, small brush for crease definition.",
+            "Identify the function of 'Pencil Brushes' for smudge details.",
+            "Understand why dual-ended brushes are a bad investment.",
+                "Learn the 'Bar Soap Technique' for deep-cleaning sponges.",
+            "Understand how to use a cleansing mat for brushes.",
+            "Recognize the importance of drying brushes flat to prevent damage."
+          ],
+          "tasks": [
+            {
+              "type": "beauty_simulation",
+              "instruction": "You are applying a thick, full-coverage cream foundation to a client with textured skin. Which tool ensures the best blend without absorbing all the product?",
+              "options": [
+                "A damp Beauty Sponge",
+                "A flat-top Kabuki Brush",
+                "A loose Stippling Brush"
+              ],
+              "solution": "A flat-top Kabuki Brush",
+              "feedback": "Correct. As noted, sponges absorb product and struggle with thick formulas. A dense Kabuki buffs the thick product into the skin for a flawless finish."
+            },
+            {
+              "type": "tool_mastery",
+              "instruction": "A client requests a 'blinding, Instagram-style' highlight rather than a subtle natural glow. Which brush density do you choose?",
+              "options": [
+                "A soft, fluffy Fan Brush",
+                "A dense, flat Highlighting Brush",
+                "A large Powder Brush"
+              ],
+              "solution": "A dense, flat Highlighting Brush",
+              "feedback": "Spot on. Denser bristles pack on more pigment for a stronger reflection, whereas fluffy brushes diffuse the product for a subtle look."
+            },    {
+              "type": "technique_audit",
+              "instruction": "You are attempting a smoky eye, but the dark crease color has muddied and spread all the way up to the brow bone. What tool error likely caused this?",
+              "options": [
+                "You used a brush that was too small and stiff.",
+                "You used a large fluffy blending brush for a detailed crease step.",
+                "You didn't use a primer."
+              ],
+              "solution": "You used a large fluffy blending brush for a detailed crease step.",
+              "feedback": "Exactly. Large brushes cover large areas. For the crease, you need a smaller, tapered brush to focus the dark color, otherwise it diffuses everywhere."
+            },
+            {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the brushes in the order they are typically used for a standard eye look.",
+              "items": [
+                "Flat Shader Brush (Pack lid color)",
+                "Small Tapered Brush (Darken crease)",
+                "Large Fluffy Brush (Transition shade)"
+              ],
+              "solution": [
+                "Large Fluffy Brush (Transition shade)",
+                "Small Tapered Brush (Darken crease)",
+                "Flat Shader Brush (Pack lid color)"
+              ]
+            }, {
+              "type": "technique_audit",
+              "instruction": "You washed your beauty sponge with liquid soap, but when you cut it open, there is still old foundation in the center. What method should you switch to?",
+              "options": [
+                "Boil it in hot water.",
+                "Rub it against a solid bar of soap under running water.",
+                "Soak it in alcohol."
+              ],
+              "solution": "Rub it against a solid bar of soap under running water.",
+              "feedback": "Correct. As demonstrated, the bar soap penetrates deep into the foam to push out deep-seated residue that liquid soap often misses."
+            },
+            {
+              "type": "routine_sequencer",
+              "instruction": "What is the correct drying protocol to ensure the longevity of your brushes?",
+              "items": [
+                "Stand them upright in a cup immediately.",
+                "Lay them flat on a towel.",
+                "Use a hair dryer on high heat."
+              ],
+              "solution": [
+                "Lay them flat on a towel.",
+                "Stand them upright in a cup immediately.",
+                "Use a hair dryer on high heat."
+              ]
+            }
+          ]
+        },  
+        {
+          "id": "course_skin_preparation",
+          "title": "The Canvas Protocol: Advanced Skin Prep Strategy",
+          "video_id": "BwtQ4oAxpiQ",
+          "description": "Makeup is only as good as the skin beneath it. In this module, we move beyond basic washing to 'Textural Engineering.' Learn to micro-exfoliate without irritation, create a magnetic grip for foundation, and strategically control oil without deadening the complexion. This creates the necessary surface for Module 6: Base Routine",
+          "channel_name": "PaintedBySpencer",
+          "start": 0,
+          "end": 570,
+          "xp_reward": 100,
+          "key_learning_outcomes": [
+            "Understand why cleansing balms are superior to physical scrubs for pre-makeup exfoliation.",
+            "Master the 'Soften and Remove' technique for flaking skin.",
+            "Preserve natural oils to maintain the skin barrier.",
+               "Learn to use bi-phase serums (Oil + Serum) for maximum moisture balance.",
+            "Understand the concept of 'tacky' skin for makeup adhesion.",
+            "Identify the secondary use of spray serums: Melting powder (Post-Application).",
+                "Execute the Lip Prep sequence: Exfoliate, Plump, Wait.",
+            "Differentiate between primers for Color/Texture (skip) vs. Shine (use).",
+            "Master 'Zone-Specific' application for matte primers."
+          ],
+          "tasks": [
+            {
+              "type": "beauty_simulation",
+              "instruction": "Your client has visible flaky patches on their nose but very sensitive, dry skin. How do you prep this area?",
+              "options": [
+                "Scrub vigorously with a physical exfoliant beads.",
+                "Apply a chemical peel and wait 20 minutes.",
+                "Apply a cleansing balm, let it sit to soften the skin, then gently remove with a cloth."
+              ],
+              "solution": "Apply a cleansing balm, let it sit to soften the skin, then gently remove with a cloth.",
+              "feedback": "Correct. As Spencer demonstrates, this softens the dead cells for removal without stripping the skin's essential oils, which is crucial for the foundation application coming up."
+            },
+            {
+              "type": "routine_sequencer",
+              "instruction": "Order the steps for the 'Balm Exfoliation' technique.",
+              "items": [
+                "Apply balm to dry/flaky areas.",
+                "Wipe away with a towel/cloth.",
+                "Let sit for a few minutes to soften."
+              ],
+              "solution": [
+                "Apply balm to dry/flaky areas.",
+                "Let sit for a few minutes to soften.",
+                "Wipe away with a towel/cloth."
+              ]
+            },  {
+              "type": "routine_sequencer",
+              "instruction": "You are using a bi-phase spray serum (like d'Alba). What is the critical first step before application?",
+              "items": [
+                "Spray directly on the face.",
+                "Shake the bottle to mix the oil and serum layers.",
+                "Apply to a cotton pad."
+              ],
+              "solution": [
+                "Shake the bottle to mix the oil and serum layers.",
+                "Spray directly on the face.",
+                "Apply to a cotton pad."
+              ]
+            },
+            {
+              "type": "technique_audit",
+              "instruction": "Later in the routine, the client's powder looks dry and sits 'on top' of the skin. Using the knowledge from this module, what is the fix?",
+              "options": [
+                "Add more powder to cover it.",
+                "Remove the makeup and start over.",
+                "Mist with the spray serum to 'melt' the powder into the skin."
+              ],
+              "solution": "Mist with the spray serum to 'melt' the powder into the skin.",
+              "feedback": "Excellent. This product bridges the gap between skin prep and finishing, ensuring the powders merge with the skin's texture."
+            },   {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the Lip Prep sequence to ensure the lips are ready for lipstick by the end of the full makeup session.",
+              "items": [
+                "Apply plumping gloss/treatment.",
+                "Scrub/Polish lips.",
+                "Wait for absorption."
+              ],
+              "solution": [
+                "Scrub/Polish lips.",
+                "Apply plumping gloss/treatment.",
+                "Wait for absorption."
+              ]
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "You have a client with an oily T-Zone but normal/dry cheeks. How do you apply the Shine Control Primer?",
+              "options": [
+                "Apply a generous layer over the entire face to be safe.",
+                "Apply a small amount only to the T-zone/oily areas, tapping it in.",
+                "Mix the primer with the foundation."
+              ],
+              "solution": "Apply a small amount only to the T-zone/oily areas, tapping it in.",
+              "feedback": "Perfect. As Spencer notes, all-over matte primer is unnecessary and can look lifeless. Treat the problem area only."
+            }
+          ]
+        } 
+      ]
+    }, 
+    {
+      "id": "course_color_theory_skin_science",
+      "title": "Complexion Mastery & Sculpting",
+      "thumbnail": "assets/color-theory-thumbnail.jpg",
+      "description": "You will learn how to identify your true undertone, apply foundation and concealer smoothly, and use contour and highlight to define your specific face shape.",
+      "sequence_order": 2,
+      "syllabus_context": {
+        "current_module": "Color Theory & Skin Science",
+        "prerequisites_active": "Module 1: Intro/Philosophy (Makeup as Science), Module 2: Hygiene (Sanitary Application)"
+      },
+      "chapters": [
+        {
+          "id": "course_color_theory_skin_science",
+          "title": "Chromatic Control: The Science of Color Correction",
+          "video_id": "wvLOlSPcNMg",
+          "description": "We begin with the fundamental rule of the Color Wheel: Opposites Cancel. This segment focuses on identifying 'dullness' and purple tones often found in fair skin or veins, and using Pastel Yellow to erase them without heavy product.",
+          "channel_name": "Rose Siard",
+          "start": 0,
+          "end": 1500,
+          "xp_reward": 100,
+          "key_learning_outcomes": [
+            "Understand the relationship between Purple and Yellow on the Color Wheel.",
+            "Identify 'dullness' in skin as a purple/blue-based tone.",
+            "Learn to visualize vivid correctors as 'pastel' versions for the face.",
+             "Discriminate between Orange (Deep Skin/Blue) and Peach (Light Skin/Blue) correctors.",
+            "Master the '60-Second Dry Down' rule.",
+            "Learn the 'Tapping' vs. 'Swiping' application technique to preserve coverage.",
+             "Use Green to neutralize Red (active breakouts/rosacea).",
+            "Use Pink to neutralize Yellow (sallow skin) or brighten under-eyes.",
+            "Understand how to color-correct a concealer product itself."
+          ],
+          "tasks": [
+            {
+              "type": "color_theory",
+              "instruction": "A client has visible purple veins on their eyelid and general dullness (purple cast) on the cheeks. According to the color wheel, which corrector neutralizes this?",
+              "items": [
+                "Lavender/Purple",
+                "Pastel Yellow",
+                "Green"
+              ],
+              "solution": "Pastel Yellow"
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "You are applying a yellow corrector. The client asks why you are using such a bright color. How do you explain the science?",
+              "options": [
+                "It's a trend I saw on TikTok.",
+                "Yellow is directly across from purple on the color wheel, so it optically cancels the vein color.",
+                "Yellow adds warmth to make you look tan."
+              ],
+              "solution": "Yellow is directly across from purple on the color wheel, so it optically cancels the vein color.",
+              "feedback": "Precisely. We are using optical physics, not just covering up."
+            },{
+              "type": "beauty_simulation",
+              "instruction": "Your client has a deep skin tone with dark, blue-toned hyperpigmentation around the mouth. Which corrector do you select?",
+              "options": [
+                "Pastel Peach",
+                "Deep Orange",
+                "Green"
+              ],
+              "solution": "Deep Orange",
+              "feedback": "Correct. A deep complexion requires the intensity of Orange to neutralize the dark blue/brown tones. Peach would look ashy or gray."
+            },
+            {
+              "type": "technique_audit",
+              "instruction": "You applied the perfect corrector, but when you applied foundation over it, the dark spot reappeared and the colors mixed muddy. What went wrong?",
+              "options": [
+                "You didn't use enough powder.",
+                "You swiped the foundation brush instead of tapping, and didn't let the corrector dry for 60 seconds.",
+                "The foundation was too full coverage."
+              ],
+              "solution": "You swiped the foundation brush instead of tapping, and didn't let the corrector dry for 60 seconds.",
+              "feedback": "Exactamundo! Swiping disturbs the correcting layer. You must let it dry down and then 'Tippy Tap' over it."
+            },  {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the steps for covering a bright red acne scar.",
+              "items": [
+                "Apply Foundation (Tapping motion)",
+                "Apply Green Corrector",
+                "Wait 60 seconds for dry down"
+              ],
+              "solution": [
+                "Apply Green Corrector",
+                "Wait 60 seconds for dry down",
+                "Apply Foundation (Tapping motion)"
+              ]
+            },
+            {
+              "type": "color_theory",
+              "instruction": "A fair-skinned client feels their under-eye concealer looks too 'yellow' and sickly against their skin. What color corrector can be mixed in or layered to fix this?",
+              "items": [
+                "More Yellow",
+                "Pink",
+                "Orange"
+              ],
+              "solution": "Pink",
+              "feedback": "Correct! Pink sits opposite yellow/green on the wheel, neutralizing the sallow tone and brightening the area."
+            }
+          ]
+        },
+        {
+          "id": "course_makeup_basics_base_routine",
+          "title": "Flawless Base Mechanics (Primer & Foundation)",
+          "video_id": "p6nAirxV2DQ",
+          "description": "A flawless look begins with a bulletproof base. In this core module, we transition from skin prep (Module 4) to the actual application of complexion products. You will master the 'Tap & Buff' technique to ensure longevity, learn to distinguish between 'Coverage' and 'Highlighting' with concealer, and execute the 'Baby Bake' method to lock in your work without looking cakey.",
+          "channel_name": "Ali Andreea",
+          "start": 0,
+          "end": 710,
+          "xp_reward": 150,
+          "key_learning_outcomes": [
+            "Distinguish between Moisturizer (Hydration) and Primer (Texture/Oil Control).",
+            "Master the 'Tapping' application technique for pore-filling primers.",
+            "Select foundation formulas based on skin type (Oily vs. Combination/Dry).",
+                "Understand the dual purpose of concealer: Coverage vs. Highlighting.",
+            "Execute the 'Baby Bake' technique for under-eye longevity.",
+            "Learn strategic powder placement to maintain dimension.",
+             "Differentiate Contour (Gray/Cool Undertone) from Bronzer (Warm Undertone).",
+            "Map the cheekbone shadow: Hairline to Outer Eye Corner.",
+            "Apply blush to the 'Apples' for a youthful appearance (vs. draped)."
+          ],
+          "tasks": [
+            {
+              "type": "technique_audit",
+              "instruction": "You are applying a pore-filling primer (like Becca Ever Matte) to the T-Zone. You rub it in circular motions like a moisturizer. Why is this incorrect?",
+              "options": [
+                "It warms up the product too much.",
+                "Rubbing causes the product to pill and doesn't fill the pores effectively.",
+                "It removes the moisturizer underneath."
+              ],
+              "solution": "Rubbing causes the product to pill and doesn't fill the pores effectively.",
+              "feedback": "Correct. As Andreea demonstrates, you must TAP the primer into the skin to fill the texture. Rubbing destroys the bond."
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "Your client has extremely oily skin and needs the makeup to last for a 10-hour wedding. Which foundation type do you choose?",
+              "options": [
+                "Luminous Silk (Hydrating/Natural)",
+                "Power Fabric (High Coverage/Matte/Long-wear)",
+                "Tinted Moisturizer"
+              ],
+              "solution": "Power Fabric (High Coverage/Matte/Long-wear)",
+              "feedback": "Spot on. While Luminous Silk is beautiful for normal/dry skin, an oily client needs a formula designed to withstand sebum production."
+            },   {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the steps for the 'Baby Bake' setting routine.",
+              "items": [
+                "Dust off excess powder.",
+                "Ensure no creasing with a brush.",
+                "Press powder into the sides of the nose and under eyes.",
+                "Let sit for a moment."
+              ],
+              "solution": [
+                "Ensure no creasing with a brush.",
+                "Press powder into the sides of the nose and under eyes.",
+                "Let sit for a moment.",
+                "Dust off excess powder."
+              ]
+            },
+            {
+              "type": "tool_mastery",
+              "instruction": "When setting the under-eye area and t-zone, why does the instructor switch to a smaller brush (like the ABH A16) instead of a large powder brush?",
+              "options": [
+                "Small brushes hold more product.",
+                "To have precise control and pack product only where creases happen.",
+                "Large brushes are only for bronzer."
+              ],
+              "solution": "To have precise control and pack product only where creases happen.",
+              "feedback": "Correct. Precision is key. A large brush dusts powder everywhere, flattening the look. A small brush locks specific high-movement areas."
+            },  {
+              "type": "color_theory",
+              "instruction": "You need to create a realistic shadow under the cheekbone (Contour). Based on Color Theory (Module 3), what undertone must the product have?",
+              "items": [
+                "Warm/Orange Undertone",
+                "Gray/Cool Undertone",
+                "Red Undertone"
+              ],
+              "solution": "Gray/Cool Undertone",
+              "feedback": "Excellent. Natural shadows are cool/gray. Warm tones are for bronzing (mimicking the sun), not sculpting bone structure."
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "The client wants a 'youthful, fresh' look rather than a severe, sculpted look. Where do you place the blush?",
+              "options": [
+                "Low in the hollows of the cheek.",
+                "Strictly on the temples.",
+                "On the apples of the cheeks."
+              ],
+              "solution": "On the apples of the cheeks.",
+              "feedback": "Correct. Placing blush on the apples mimics a natural flush and plumps the face visually, creating a more youthful appearance."
+            }
+          ]
+        },
+        {
+          "id": "course_contouring_highlighting",
+          "title": "Architectural Face Sculpting: Light & Shadow Physics",
+          "video_id": "uXifKDhEfo4",
+          "description": "Foundation made your canvas flawless, but it also made it flat. Now, we bring 3D dimension back. In this module, you will master the optical illusions of pushing features back (Contour) and bringing them forward (Highlight). We will tackle the critical distinction between 'Bronzing' and 'Sculpting' and how to layer textures for longevity..",
+          "channel_name": "Alexandra Anele",
+          "start": 0,
+          "end": 1130,
+          "xp_reward": 150,
+          "key_learning_outcomes": [
+            "Understand the core principle: Dark pushes features back (hollows), Light pulls them forward (high points).",
+            "Identify the correct contour undertone (Cool/Grey/Olive) vs. Bronzer (Warm).",
+            "Map the standard contour zones: Temples, Hollows of Cheeks, Jawline.",
+             "Execute the 'Press and Tap' blending motion to preserve coverage.",
+            "Differentiate between 'Round' cheek contouring and 'Vertical' cuts.",
+            "Master the layering order: Cream structure first.",
+             "Understand the 'Baking' technique for cleaning up jawline and nose contours.",
+            "Learn to use bronzer/contour powder to 'shrink' over-highlighted areas.",
+            "Finalize the look by melding layers."
+          ],
+          "tasks": [
+            {
+              "type": "color_theory",
+              "instruction": "You are selecting a contour shade for a client with Fair Olive skin (Cool/Green undertone). Which product do you choose to create a realistic shadow?",
+              "items": [
+                "A warm, orange-based bronzer",
+                "A cool, grey or green-based sculpting powder",
+                "A red-based brown cream"
+              ],
+              "solution": "A cool, grey or green-based sculpting powder",
+              "feedback": "Correct. As Alexandra explains, a shadow is naturally grey/cool. Using an orange product on olive skin will look like dirt or a tan, not a shadow."
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "Your client feels their forehead is too large/tall. Using the principles of light and shadow, what is your strategy?",
+              "options": [
+                "Apply highlighter to the center of the forehead.",
+                "Apply contour along the hairline and blend downwards.",
+                "Apply blush to the temples."
+              ],
+              "solution": "Apply contour along the hairline and blend downwards.",
+              "feedback": "Exactly. Adding darkness (contour) to the perimeter shortens the visible area of the forehead, balancing the face shape."
+            },  {
+              "type": "technique_audit",
+              "instruction": "You are blending out cream contour over a full-coverage foundation. You use a swiping/dragging motion with your brush. What is the likely negative outcome?",
+              "options": [
+                "The contour will be too dark.",
+                "You will lift the foundation underneath, revealing skin and blemishes.",
+                "The brush will shed bristles."
+              ],
+              "solution": "You will lift the foundation underneath, revealing skin and blemishes.",
+              "feedback": "Correct. As emphasized in the video, you must use 'Pressing' motions. Swiping disturbs the base layer you perfected in Module 6."
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "You want to create a more angular, heart-shaped face effect on a round face. How do you angle the cheek contour?",
+              "options": [
+                "Curve it under the apple of the cheek (Jaclyn Hill style).",
+                "Cut it more vertically from the ear down towards the corner of the mouth.",
+                "Place it horizontally across the cheekbone."
+              ],
+              "solution": "Cut it more vertically from the ear down towards the corner of the mouth.",
+              "feedback": "Correct. A more vertical line (referenced as the Chloe Morello technique) slims the face and reduces roundness more effectively than a curved scoop."
+            },{
+              "type": "routine_sequencer",
+              "instruction": "You want to achieve the longest-lasting sculpted look. Arrange the layering order.",
+              "items": [
+                "Powder Contour/Bronzer",
+                "Foundation",
+                "Cream Contour"
+              ],
+              "solution": [
+                "Foundation",
+                "Cream Contour",
+                "Powder Contour/Bronzer"
+              ]
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "You went too far with your under-eye highlighter and now the center of the face looks too white and wide. How do you fix this without washing your face?",
+              "options": [
+                "Apply more highlighter to balance it.",
+                "Take your contour/bronzer brush and gently blend inward over the edges of the highlight to regain balance.",
+                "Wipe it off with a makeup wipe."
+              ],
+              "solution": "Take your contour/bronzer brush and gently blend inward over the edges of the highlight to regain balance.",
+              "feedback": "Perfect. You can 'shrink' the light area by bringing the shadow (bronzer/contour) back over the edges, restoring the proper ratio."
+            }
+          ]
+        } 
+      ]
+    }, 
+    {
+      "id": "course_feature_architecture",
+      "title": "Feature Definition – Brows, Eyes & Lips",
+      "thumbnail": "assets/thumbnails/brows_module.jpg",
+      "description": "In this section, you will learn the geometry of the perfect eyebrow, how to blend eyeshadow and apply lashes for your specific eye shape (including hooded eyes), and how to shape your lips using professional liner and ombré techniques.",
+      "sequence_order": 3,
+      "syllabus_context": {
+        "current_module": "Eyebrow Architecture",
+        "prerequisites_active": "Module 5: Tools (Angled Brushes & Spoolies), Module 6: Base Routine (Concealer Clean-up)"
+      },
+      "chapters": [
+        {
+          "id": "course_eyebrow_architecture",
+          "title": "Brow Architecture: Framing the Face",
+          "video_id": "UF0xVHOPdXs",
+          "description": "Brows are the frame of the face. In this module, we move away from the 'Block Brow' of the past and embrace the 'Realistic Hair Stroke' technique. Whether your client has full brows or sparse growth, you will learn to map, fluff, and sketch natural-looking brows that lift the eyes and define the features, preparing the canvas for the eye makeup in the upcoming Module",
+          "channel_name": "Robert Welsh",
+          "start": 0,
+          "end": 810,
+          "xp_reward": 150,
+          "key_learning_outcomes": [
+            "Identify the 3 key points of brow mapping: Start, Arch, and Tail.",
+            "Understand why 'Block Brows' and squared-off fronts look unnatural.",
+            "Learn to connect the hair growth pattern to the arch placement.",
+               "Master the 'Back-Combing' technique to coat every hair with gel/soap.",
+            "Understand how lifting the brow hairs reveals the true shape and gaps.",
+            "Learn to press the brow against the skin for a laminated hold.",
+                "Execute the 'Flick' motion for realistic hair strokes.",
+            "Use concealer to clean up the brow bone (underside only).",
+            "Color matching logic: Match the hair, then fade the front."
+          ],
+          "tasks": [
+            {
+              "type": "technique_audit",
+              "instruction": "You are observing a student fill in a brow. They draw a hard, straight line across the top and bottom and then color it in completely solid. What is this technique error called?",
+              "options": [
+                "The Insta-Brow",
+                "The Block Brow",
+                "The Fluffy Brow"
+              ],
+              "solution": "The Block Brow",
+              "feedback": "Correct. As Robert demonstrates, 'coloring it in' creates a blocky, fake appearance that we want to avoid in modern application."
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "Your client has a gap in their brow arch. Instead of drawing a straight line across, what stroke technique should you use?",
+              "options": [
+                "Draw a solid line connecting the gap.",
+                "Use upward, hair-like strokes to mimic natural growth.",
+                "Fill it with dark pomade."
+              ],
+              "solution": "Use upward, hair-like strokes to mimic natural growth.",
+              "feedback": "Exactly. Mimicking the direction of hair growth makes the repair invisible."
+            },    {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the steps for the perfect 'Soap Brow' application.",
+              "items": [
+                "Brush hairs upward into final shape.",
+                "Apply product against the grain (backwards) to coat roots.",
+                "Press hairs flat against the skin."
+              ],
+              "solution": [
+                "Apply product against the grain (backwards) to coat roots.",
+                "Brush hairs upward into final shape.",
+                "Press hairs flat against the skin."
+              ]
+            },
+            {
+              "type": "tool_mastery",
+              "instruction": "What is the primary benefit of using a brow soap/gel BEFORE filling in with pencil?",
+              "options": [
+                "It makes the pencil darker.",
+                "It reveals the true gaps so you don't over-fill the brow.",
+                "It removes foundation from the hair."
+              ],
+              "solution": "It reveals the true gaps so you don't over-fill the brow.",
+              "feedback": "Correct. By lifting the hairs first, you see exactly where you need to add strokes, preventing a heavy, blocky look."
+            },   {
+              "type": "beauty_simulation",
+              "instruction": "You are using a brow pen to add fullness. How do you hold the pen for the finest strokes?",
+              "options": [
+                "Press hard and drag slowly.",
+                "Use the very tip and use a quick 'flick' motion, lifting at the end.",
+                "Draw circles to fill space."
+              ],
+              "solution": "Use the very tip and use a quick 'flick' motion, lifting at the end.",
+              "feedback": "Perfect. The 'flick' creates a tapered line that looks exactly like a natural hair, thick at the root and thin at the tip."
+            },
+            {
+              "type": "routine_sequencer",
+              "instruction": "You want to clean up the brow shape with concealer. Where do you apply it?",
+              "items": [
+                "Run a thin line strictly underneath the brow.",
+                "Draw a box around the entire brow.",
+                "Blend it down onto the eyelid."
+              ],
+              "solution": [
+                "Run a thin line strictly underneath the brow.",
+                "Blend it down onto the eyelid."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "course_eyes_makeup",
+          "title": "Structural Eye Contouring: The Physics of Blending",
+          "video_id": "ZiRYa5X04u8",
+          "description": "In this module, we apply the rules of Light and Shadow (Module 9 preview) specifically to the eye socket. You will master the 'Golden Rule of Brush Sizing', learn to balance the upper and lower lash lines, and use texture to manipulate the shape of the eye.",
+          "channel_name": "Alexandra Anele",
+          "start": 0,
+          "end": 299,
+          "xp_reward": 100,
+          "key_learning_outcomes": [
+            "Differentiate between Eye Primer (Barrier/Grip) and Concealer (Coverage).",
+            "Understand the 3D structure: Crease recedes (Dark), Lid/Brow Bone advances (Light).",
+            "Master the 'Velvety Base' concept for seamless blending.",
+                "Master the 'Golden Rule': Darker Shadow = Smaller Brush.",
+            "Execute the 'Transition Wash' with a large fluffy brush.",
+            "Place depth strategically in the Outer V to lift the eye.",
+                   "Balance the eye by connecting the Upper and Lower lash lines.",
+            "Use matte shadow on the lower lash line to recede 'under-eye bags'.",
+            "Placement of Shimmer (Center Lid) vs. Matte (Crease)."
+          ],
+          "tasks": [
+            {
+              "type": "beauty_simulation",
+              "instruction": "Your client has extremely oily eyelids and their shadow always creases within an hour. They ask you to just use concealer as a base. What is your professional decision?",
+              "options": [
+                "Agree and use a thick layer of concealer.",
+                "Decline and use a dedicated Eye Primer to create a barrier against oil.",
+                "Apply powder only."
+              ],
+              "solution": "Decline and use a dedicated Eye Primer to create a barrier against oil.",
+              "feedback": "Correct. As Alexandra explains, concealer adds oils/emollients which can worsen creasing on oily lids. A primer creates a dry, velvety barrier."
+            },
+            {
+              "type": "technique_audit",
+              "instruction": "You are assessing a student's understanding of eye shape. They apply dark black shadow to the center of the lid and white shadow in the crease. Why does this look 'flat' or 'wrong' based on physics?",
+              "options": [
+                "It's just ugly.",
+                "It contradicts the natural planes: The crease should recede (Dark) and the lid should protrude (Light).",
+                "They used the wrong brush."
+              ],
+              "solution": "It contradicts the natural planes: The crease should recede (Dark) and the lid should protrude (Light).",
+              "feedback": "Exactly. Makeup aims to round out the form. Darkening the center flattens it; lightening it brings it forward."
+            }, {
+              "type": "tool_mastery",
+              "instruction": "You are about to apply your darkest, blackest eyeshadow to define the very outer corner. Which brush do you select?",
+              "options": [
+                "A large, fluffy blending brush (e.g., Y19)",
+                "A small, dense precision brush (e.g., Morphe M507 or Pencil Brush)",
+                "A flat foundation brush"
+              ],
+              "solution": "A small, dense precision brush (e.g., Morphe M507 or Pencil Brush)",
+              "feedback": "Correct. The Golden Rule states: As the color gets darker, the brush gets smaller to control placement and prevent the dark color from taking over the eye."
+            },
+            {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the order of application to create a seamless gradient.",
+              "items": [
+                "Deep Dark Brown (Outer Corner/Crease)",
+                "Mid-tone Caramel (Transition/Crease)",
+                "Black (Precision Definition)"
+              ],
+              "solution": [
+                "Mid-tone Caramel (Transition/Crease)",
+                "Deep Dark Brown (Outer Corner/Crease)",
+                "Black (Precision Definition)"
+              ]
+            }, {
+              "type": "beauty_simulation",
+              "instruction": "Your client has prominent under-eye bags (puffy area). How do you utilize the lower lash line shadow to help?",
+              "options": [
+                "Apply bright white shimmer to the bag to highlight it.",
+                "Leave it bare.",
+                "Apply a matte mid-tone shadow over the 'bag' area to visually push it back."
+              ],
+              "solution": "Apply a matte mid-tone shadow over the 'bag' area to visually push it back.",
+              "feedback": "Brilliant. Since dark recedes, applying a matte shadow over the puffy area helps flatten it visually, integrating it into the eye look."
+            },
+            {
+              "type": "routine_sequencer",
+              "instruction": "Where is the optimal placement for a metallic shimmer shade to make the eye look round and 3D?",
+              "items": [
+                "In the crease.",
+                "Center of the eyelid.",
+                "Entire brow bone."
+              ],
+              "solution": [
+                "Center of the eyelid.",
+                "In the crease.",
+                "Entire brow bone."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "course_lip_makeup",
+          "title": "Lip Sculpture & Texture",
+          "video_id": "7OCes9Eubxs",
+          "description": "Anyone can swipe on a lipstick. An artist knows how to manipulate one product into four distinct textures. In this section, we master the 'Lip Wardrobe' concept: transforming a single bullet into a Stain, a Velvet Matte, a Classic Cream, and a High-Gloss Lacquer. You will also master the 'Lip-Cheek Harmony' technique to unify your color story.",
+          "channel_name": "Lisa Eldridge",
+          "start": 0,
+          "end": 399,
+          "xp_reward": 100,
+          "key_learning_outcomes": [
+            "Execute the 'Finger Press' technique for a long-lasting stain.",
+            "Understand 'Lip-Cheek Harmony': Using the same pigment on lips and cheeks.",
+            "Learn to blend cream products over specific base textures (Dewy vs. Matte).",
+                 "Master the Lip Brush for working pigment into lip wrinkles/texture.",
+            "Learn the 'Reverse Liner' technique: Lipstick first, Liner second.",
+            "Feathering liner to correct asymmetry without harsh lines.",
+                "Execute the 'Split Tissue' blotting technique.",
+            "Create a 'Velvet Matte' texture using translucent powder over tissue.",
+            "Understand the visual effect of gloss (Volume/Dimension)."
+          ],
+          "tasks": [
+            {
+              "type": "beauty_simulation",
+              "instruction": "Your client loves a dark 'Vamp' lipstick color but wants to wear it for a casual brunch without looking 'too intense'. Which application method do you choose?",
+              "options": [
+                "Apply straight from the bullet for full opacity.",
+                "Apply with a brush for sharp lines.",
+                "Dab with a finger to create a sheer, bitten 'stain' effect."
+              ],
+              "solution": "Dab with a finger to create a sheer, bitten 'stain' effect.",
+              "feedback": "Correct. As Lisa demonstrates, pressing the pigment into the lip creates a modern, wearable stain that looks like natural color rather than heavy makeup."
+            },
+            {
+              "type": "routine_sequencer",
+              "instruction": "You are applying lipstick as a cream blush. Arrange the steps to ensure it doesn't look patchy.",
+              "items": [
+                "Warm the product on the back of your hand/finger.",
+                "Apply directly from the stick to the cheek.",
+                "Blend onto a non-powdered/dewy surface."
+              ],
+              "solution": [
+                "Warm the product on the back of your hand/finger.",
+                "Blend onto a non-powdered/dewy surface.",
+                "Apply directly from the stick to the cheek."
+              ]
+            },  {
+              "type": "tool_mastery",
+              "instruction": "Why does the instructor recommend working the first layer of lipstick in with a stiff brush?",
+              "options": [
+                "It uses less product.",
+                "It pushes pigment into the lip's natural texture/wrinkles for longevity.",
+                "It looks fancier."
+              ],
+              "solution": "It pushes pigment into the lip's natural texture/wrinkles for longevity.",
+              "feedback": "Correct. Filling the 'micro-valleys' of the lip texture ensures the color doesn't wear off unevenly when the client speaks or eats."
+            },
+            {
+              "type": "technique_audit",
+              "instruction": "You are observing a student apply a red lip. They draw a dark, heavy line around the border first, then fill it in. The result looks harsh. What is the corrective technique?",
+              "options": [
+                "Use a lighter pencil.",
+                "Apply the lipstick first to establish the shape, then use the pencil to softly feather and correct the edges.",
+                "Don't use pencil at all."
+              ],
+              "solution": "Apply the lipstick first to establish the shape, then use the pencil to softly feather and correct the edges.",
+              "feedback": "Exactly. Applying lipstick first gives you a guide. The pencil is then used as a 'refiner' rather than a 'fence', creating a softer, more modern gradient."
+            }, {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the steps to turn a cream lipstick into a long-wear Velvet Matte.",
+              "items": [
+                "Apply Lipstick.",
+                "Place single ply of tissue over lips.",
+                "Dust translucent powder through the tissue."
+              ],
+              "solution": [
+                "Apply Lipstick.",
+                "Place single ply of tissue over lips.",
+                "Dust translucent powder through the tissue."
+              ]
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "Your client wants their lips to look visually fuller and more 3D for an evening event. Which finish do you select?",
+              "options": [
+                "A flat matte stain.",
+                "A high-shine gloss layered over the lipstick.",
+                "A dry lip liner."
+              ],
+              "solution": "A high-shine gloss layered over the lipstick.",
+              "feedback": "Correct. As shown in the final look, gloss catches the light, creating highlights that trick the eye into seeing more volume."
+            }
+          ]
+        }
+      ]
+    },  
+    {
+      "id": "course_day_makeup_clean_girl",
+      "title": "The Complete Portfolio – Day, Night & Bridal",
+      "thumbnail": "assets/thumbnails/clean_girl_day_look.jpg",
+      "description": "Now that you have mastered the features, it is time to create full looks. In this section, you will learn to execute the perfect 10-minute 'Clean Girl' routine for the office and transition into "Glam" Smokey Eyes for the evening. We also cover the most profitable skills for an artist: Bridal makeup (both Traditional and White Wedding) and advanced sweat-proofing techniques to ensure your work survives heat and flash photography.",
+      "sequence_order": 4,
+      "syllabus_context": {
+        "current_module": "Day Makeup (The 'Clean Girl' Look)",
+        "prerequisites_active": "Module 4: Skin Prep (SPF Layering), Module 6: Base Routine (Undertones)"
+      },
+      "chapters": [
+        {
+          "id": "ch_skin_tint_philosophy",
+          "title": "The 'Clean Girl' Aesthetic: Day Makeup Look",
+          "video_id": "yh4H-BvuND0",
+          "description": "Abandon heavy coverage. This section shifts focus from coverage to enhancement, utilizing skin tints, cream textures, and strategic placement to create a fresh, professional, and office-appropriate appearance that enhances natural features rather than masking them.",
+          "channel_name": "Haley Kim",
+          "start": 0,
+          "end": 935,
+          "xp_reward": 100,
+          "key_learning_outcomes": [
+            "Differentiate between Skin Tints (enhancement) and Foundation (coverage).",
+            "Master the 'Two-Finger Rule' for SPF application underneath tints.",
+            "Select formulas based on skin type (Summer Fridays for Dry vs. MAC/Dior for Combo/Oily).",
+               "Understand the benefits of skincare-infused makeup (e.g., Tamanu Oil in blush).",
+            "Master the 'Tap and Melt' application technique for cream blush.",
+            "Apply Color Theory: Mauve tones for Neutral/Olive skin.",
+            "Select Cool/Neutral contour shades (e.g., Amber) for natural shadows.",
+            "Achieve 'Glass Skin' using transparent balms instead of glittery highlighters."
+          ],
+          "tasks": [
+            {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the Morning Base Routine for maximum protection and a natural finish.",
+              "items": [
+                "Apply Skin Tint (Light coverage)",
+                "Apply SPF (Two-Finger Amount)",
+                "Wait for SPF to absorb completely"
+              ],
+              "solution": [
+                "Apply SPF (Two-Finger Amount)",
+                "Wait for SPF to absorb completely",
+                "Apply Skin Tint (Light coverage)"
+              ]
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "Your client has oily skin but wants a natural 'Clean Girl' look during the summer. Which product type from the video is the safest recommendation?",
+              "options": [
+                "Summer Fridays Sheer Skin Tint (Very Dewy)",
+                "MAC Face and Body or Dior Stick (Satin/Semi-Matte)",
+                "Heavy Matte Foundation"
+              ],
+              "solution": "MAC Face and Body or Dior Stick (Satin/Semi-Matte)",
+              "feedback": "Correct. As noted, the Summer Fridays tint can look greasy on oily skin in heat. The MAC or Dior options provide that natural look with a more controlled satin finish."
+            }, {
+              "type": "color_theory",
+              "instruction": "The instructor has a Neutral-Olive undertone. Which blush shade does she identify as the most complimentary natural flush?",
+              "items": [
+                "Bright Orange",
+                "Soft Mauve Pink (e.g., Piggy or Shade 62)",
+                "Deep Red"
+              ],
+              "solution": "Soft Mauve Pink (e.g., Piggy or Shade 62)",
+              "feedback": "Correct. Mauve/Soft Pink balances the green in olive skin without looking too jarring or feverish."
+            },
+            {
+              "type": "technique_audit",
+              "instruction": "You want a 'glow from within' look. You apply a cream blush containing Tamanu oil. How should you blend it for the best integration?",
+              "options": [
+                "Buff vigorously with a dense dry brush.",
+                "Tap gently with warm fingers to melt the product into the skin.",
+                "Set immediately with heavy powder."
+              ],
+              "solution": "Tap gently with warm fingers to melt the product into the skin.",
+              "feedback": "Exactly. The warmth of the fingers helps the skincare ingredients melt into the base, creating a seamless finish."
+            },   {
+              "type": "beauty_simulation",
+              "instruction": "You are doing a 'No-Makeup' look. How should you approach the lip liner step?",
+              "options": [
+                "Draw a crisp, dark border around the lips.",
+                "Use a shade that matches the lip shadow to 'contour' rather than line.",
+                "Overline significantly with a red pencil."
+              ],
+              "solution": "Use a shade that matches the lip shadow to 'contour' rather than line.",
+              "feedback": "Correct. This technique (often seen in K-Beauty) adds volume by mimicking natural shadows, avoiding the obvious 'makeup' look of a harsh line."
+            },
+            {
+              "type": "tool_mastery",
+              "instruction": "For a 'Glass Skin' highlight that looks like healthy skincare, which product texture is best?",
+              "options": [
+                "A metallic powder highlighter.",
+                "A transparent balm or glow stick (like Chanel Baume).",
+                "A glitter spray."
+              ],
+              "solution": "A transparent balm or glow stick (like Chanel Baume).",
+              "feedback": "Spot on. Balms reflect light to look like hydrated skin (water), whereas powders and glitters sit on top and look like makeup."
+            }
+          ]
+        },    
+        {
+          "id": "course_night_makeup_glam",
+          "title": "Soft Glam: The Modern Night Look",
+          "video_id": "e78Z8hjqYjk",
+          "description": "Night makeup requires durability. This module teaches the art of 'Soft Glam'—a high-impact but breathable look perfect for events. You will learn to layer cream and powder for longevity (sweat-proofing), create a lifted 'Cat Eye' structure using simple techniques, and master the strategic placement of shimmer for low-light environments.",
+          "channel_name": "Nina Ubhi",
+          "start": 0,
+          "end": 1230,
+          "xp_reward": 100,
+          "key_learning_outcomes": [
+            "Understand why a slightly warmer foundation is preferred for night/flash photography.",
+            "Execute the 'Lifted' concealer placement (outer eye, nose edge).",
+            "Master the layering of cream contour UNDER blush for depth.",
+                  "Execute the 'Socket Sculpting' technique for hooded eyes.",
+            "Placement of shimmer: Center lid vs. socket (Matte).",
+            "Use of individual lashes for a 'Cat Eye' lift.",
+               "Use a brow pen to fake fullness in sparse brows.",
+            "Balance a warm eye look with a 'Cool/Neutral' lip.",
+            "Final check: Blending the jawline and neck."
+          ],
+          "tasks": [
+            {
+              "type": "beauty_simulation",
+              "instruction": "You are doing makeup for a client attending a flash-photography event at night. Which foundation shade choice is safer to avoid looking 'ghostly'?",
+              "options": [
+                "A shade slightly lighter than their skin tone.",
+                "A shade slightly warmer/deeper than their skin tone.",
+                "A cool-toned shade."
+              ],
+              "solution": "A shade slightly warmer/deeper than their skin tone.",
+              "feedback": "Correct. Flash photography tends to wash out the skin. A slightly warmer base ensures the client looks healthy and dimensional in photos."
+            },
+            {
+              "type": "technique_audit",
+              "instruction": "To creating a 'lifting' effect with concealer, where should you NOT place the product?",
+              "options": [
+                "In a triangle shape dragging down the cheek.",
+                "In an upward dash at the outer corner of the eye.",
+                "In a small dash at the side of the nose."
+              ],
+              "solution": "In a triangle shape dragging down the cheek.",
+              "feedback": "Exactly. The old 'triangle' method drags the face down. Small, upward dashes lift the features against gravity."
+            },  {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the steps for the 'Soft Sculpt' eye look.",
+              "items": [
+                "Apply shimmer to center lid with finger.",
+                "Apply matte transition shade all over lid.",
+                "Define socket/crease with dark brown matte."
+              ],
+              "solution": [
+                "Apply matte transition shade all over lid.",
+                "Define socket/crease with dark brown matte.",
+                "Apply shimmer to center lid with finger."
+              ]
+            },
+            {
+              "type": "tool_mastery",
+              "instruction": "Why does the artist use her finger to apply the shimmer shade 'Legendary' instead of a brush?",
+              "options": [
+                "She forgot her brush.",
+                "Fingers warm the product and pack maximum pigment for high shine.",
+                "It's more sanitary."
+              ],
+              "solution": "Fingers warm the product and pack maximum pigment for high shine.",
+              "feedback": "Correct. For metallic or shimmer shades, the warmth and density of a finger often yield a much more intense 'pop' than a fluffy brush."
+            },{
+              "type": "color_theory",
+              "instruction": "The eye makeup is warm (bronze/brown). To keep the look modern and 'cool girl', which lip tone does the artist choose?",
+              "items": [
+                "Bright Orange",
+                "Cool Muted Pink/Spice (e.g., Cool Teddy)",
+                "Hot Red"
+              ],
+              "solution": "Cool Muted Pink/Spice (e.g., Cool Teddy)",
+              "feedback": "Correct. Mixing warm eyes with a slightly cooler, muted lip creates a sophisticated balance, preventing the look from being monochromatic or 'muddy'."
+            }
+          ]
+        },
+        {
+          "id": "course_bridal_mastery",
+          "title": "Makeup for Bridal Mastery & High-Stakes Photography",
+          "video_id": "8zNnNaiEQ34",
+          "description": "Bridal artistry is the Olympics of makeup. It requires a look that survives tears, sweat, and flash photography for 12+ hours. In this module, we combine every skill from previous sections into a 'Bulletproof Protocol'. Learn the 'Pinpoint' coverage technique to avoid cakey skin in photos, the 'Sandwich' method for blush and lips, and how to navigate client preferences versus professional opinion.",
+          "channel_name": "Ali Andreea",
+          "start": 0,
+          "end": 1900,
+          "xp_reward": 150,
+          "key_learning_outcomes": [
+            "Select 'Invisible' gel sunscreens to eliminate flash photography flashback.",
+            "Master 'Pinpoint Concealing' with waxy textures for blemishes.",
+            "Avoid over-hydrating the under-eye to prevent concealer slippage.",
+               "Layer liquid blush UNDER powder to guarantee all-day wear.",
+            "Execute the 'Lip Longevity' protocol: Liner -> Powder -> Liquid Lipstick.",
+            "Navigate client consultation: Adapting to preferences (e.g., overlining) confidently."                   
+          ],
+          "tasks": [
+            {
+              "type": "beauty_simulation",
+              "instruction": "You are prepping a bride for an evening wedding with flash photography. Which SPF do you choose?",
+              "options": [
+                "A mineral zinc-oxide sunscreen.",
+                "An invisible, clear gel sunscreen.",
+                "No SPF at all to be safe."
+              ],
+              "solution": "An invisible, clear gel sunscreen.",
+              "feedback": "Correct. Mineral sunscreens cause 'flashback' (white cast) in photos. An invisible gel protects the skin without ruining the wedding album."
+            },
+            {
+              "type": "technique_audit",
+              "instruction": "The bride has acne scars. To cover them without the makeup looking heavy, what technique does Ali Andreea recommend?",
+              "options": [
+                "Apply two thick layers of full-coverage foundation.",
+                "Apply a thin layer of foundation, then use a tiny brush with waxy concealer only on the spots.",
+                "Bake the entire face with powder."
+              ],
+              "solution": "Apply a thin layer of foundation, then use a tiny brush with waxy concealer only on the spots.",
+              "feedback": "Perfect. This 'Pinpoint' method keeps 90% of the skin looking natural while effectively hiding imperfections."
+            },   {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the 'Lip Sandwich' steps to ensure the bride's lip color survives the first kiss and dinner.",
+              "items": [
+                "Apply long-wear Liquid Lipstick.",
+                "Apply Lip Liner and powder it to set.",
+                "Apply Gloss for hydration."
+              ],
+              "solution": [
+                "Apply Lip Liner and powder it to set.",
+                "Apply long-wear Liquid Lipstick.",
+                "Apply Gloss for hydration."
+              ]
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "The bride requests a very heavy overlined lip. It is not your personal style. What do you do?",
+              "options": [
+                "Refuse and do a natural lip.",
+                "Do it, but execute it with precision and confidence so she feels beautiful.",
+                "Lecturing her on why it looks bad."
+              ],
+              "solution": "Do it, but execute it with precision and confidence so she feels beautiful.",
+              "feedback": "Correct. As Ali notes, if the client wears it with confidence, it looks good. Your job is to execute her vision professionally."
+            }
+          ]
+        },
+        {
+          "id": "course_makeup_for_events",
+          "title": "Makeup for Events (Occasion): The Glow-Proof",
+          "video_id": "_aCd0IK7RA4",
+          "description": "Event makeup has a difficult job: it must glow under dim lights but stay matte in the T-zone for photos. In this module, we master the 'Strategic Glow' technique. You will learn to lock in a luminous base using 'Micro-Baking', create a soft but dramatic 'Shadow Wing' that won't smudge like liquid liner, and use blush as the structural bridge for your face sculpting.",
+          "channel_name": "Teni Panosian",
+          "start": 0,
+          "end": 886,
+          "xp_reward": 100,
+          "key_learning_outcomes": [
+            "Master 'Stippling' with a sponge to maintain dimension with full coverage.",
+            "Execute 'Micro-Baking': Setting only the T-zone/Center to prevent grease while keeping the glow.",
+            "Technique: Blending contour upwards to avoid dragging the face down.",
+               "Construct a 'Shadow Wing' using black eyeshadow and a smudge brush.",
+            "Layer pencil liner underneath shadow for depth and longevity.",
+            "Apply glitter toppers with a finger for maximum impact."
+          ],
+          "tasks": [
+            {
+              "type": "beauty_simulation",
+              "instruction": "You are applying cream contour for an event. To ensure the face looks lifted in photos, in which direction do you blend?",
+              "options": [
+                "Downwards towards the jaw.",
+                "In circular motions only.",
+                "Upwards towards the hairline/temple."
+              ],
+              "solution": "Upwards towards the hairline/temple.",
+              "feedback": "Correct. Dragging contour down makes the face look saggy. Always blend up to lift the features."
+            },
+            {
+              "type": "technique_audit",
+              "instruction": "Your client wants a 'Glowy' look but you know they will be dancing and sweating. How do you set the face?",
+              "options": [
+                "Powder the entire face heavily.",
+                "Don't use any powder.",
+                "Micro-bake only the center of the face (T-zone/Under-eye) and leave the cheeks glowing."
+              ],
+              "solution": "Micro-bake only the center of the face (T-zone/Under-eye) and leave the cheeks glowing.",
+              "feedback": "Perfect. This controls oil in the critical zone while maintaining the requested glow on the perimeter."
+            },   {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the steps to create a long-lasting, smoky 'Shadow Liner'.",
+              "items": [
+                "Apply black eyeshadow close to lash line and smudge out.",
+                "Apply transition shade (Brown) to lash line to aid blending.",
+                "Tightline with black pencil for intensity."
+              ],
+              "solution": [
+                "Apply transition shade (Brown) to lash line to aid blending.",
+                "Apply black eyeshadow close to lash line and smudge out.",
+                "Tightline with black pencil for intensity."
+              ]
+            },
+            {
+              "type": "tool_mastery",
+              "instruction": "You are applying a 'Glitter Topper' (like the Tom Ford sparkle). What tool ensures it sticks and shines the most?",
+              "options": [
+                "A fluffy blending brush.",
+                "Your finger (pressing motion).",
+                "A dry sponge."
+              ],
+              "solution": "Your finger (pressing motion).",
+              "feedback": "Correct. The warmth and oil of the finger pick up the glitter and press it flat onto the lid, preventing fallout and maximizing shine."
+            }, {
+              "type": "technique_audit",
+              "instruction": "You've applied contour and highlight, but they look like separate stripes on the cheek. What step did you likely miss?",
+              "options": [
+                "Applying more foundation.",
+                "Applying blush between the two to blend them together.",
+                "Using a setting spray."
+              ],
+              "solution": "Applying blush between the two to blend them together.",
+              "feedback": "Exactly. Teni describes blush as the 'Blender' of the face makeup. It bridges the dark contour and the light highlight for a seamless gradient."
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "For a long event, the client is worried about false lashes lifting in the inner corner. What is a comfortable alternative?",
+              "options": [
+                "Use extra glue on the inner corner.",
+                "Use 'Corner Lashes' or cut a full strip in half and apply only to the outer edge.",
+                "Apply mascara only."
+              ],
+              "solution": "Use 'Corner Lashes' or cut a full strip in half and apply only to the outer edge.",
+              "feedback": "Correct. Corner lashes provide the lift and drama of false lashes but avoid the sensitive inner corner, making them much more comfortable for long wear."
+            }
+          ]
+        }
+       ]
+    },
+    {
+      "id": "course_fashion_makeup_editorial",
+      "title": "Advanced Artistry & Versatility",
+      "thumbnail": "assets/thumbnails/fashion_editorial.jpg",
+      "description": "In this module, you will learn to create bold, artistic looks for fashion editorials and photoshoots. We will also teach you how to execute viral trends (like 'Glass Skin') and the specialized techniques required for men's grooming and working with mature skin texture.",
+      "sequence_order": 5,
+      "syllabus_context": {
+        "current_module": "Fashion Makeup (Editorial)",
+        "prerequisites_active": "Module 9: Contouring (Structure), Module 8: Eye Shapes (Cat Eye)"
+      },
+      "chapters": [
+        {
+          "id": "ch_sculpting_foundation",
+          "title": "Editorial Edge: The Graphic Liner & Bronze Skin",
+          "video_id": "k-qCYZy_600",
+          "description": "Fashion makeup is about structure, texture, and pushing boundaries. In this advanced module, you will learn to sculpt the face using multiple shades of foundation (instead of powder contour), execute a precise, elongated 'Cleopatra' graphic liner, and use glitter not as a sparkle, but as a texture element.",
+          "channel_name": "Hindash",
+          "start": 0,
+          "end": 546,
+          "xp_reward": 100,
+          "key_learning_outcomes": [
+            "Master the 'Tri-Shade' foundation technique: Base, Highlight, Contour.",
+            "Understand why stick foundation is preferred for editorial sculpting (control + coverage).",
+            "Learn to blend cream contour into base foundation seamlessly.",
+                    "Use the natural crease line to guide the angle of a graphic wing.",
+            "Technique: Using a gel pencil instead of liquid for smudge-ability before setting.",
+            "Camouflaging skin texture/scars with bold graphic shapes.",
+               "Placement of glitter on a 'bare' lid for high-fashion contrast.",
+            "Understanding 'Body Highlighting' for open-shoulder outfits.",
+            "Neutralizing lip color to keep focus on the eyes."
+          ],
+          "tasks": [
+            {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the application order for the 'Tri-Shade' sculpting technique.",
+              "items": [
+                "Apply Base Shade to general areas.",
+                "Apply Contour Shade to perimeter/hollows.",
+                "Apply Highlight Shade under eyes/center of face."
+              ],
+              "solution": [
+                "Apply Base Shade to general areas.",
+                "Apply Contour Shade to perimeter/hollows.",
+                "Apply Highlight Shade under eyes/center of face."
+              ]
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "You are on a photoshoot set. The creative director wants 'skin that looks like skin, not powder'. How do you contour?",
+              "options": [
+                "Use a heavy matte powder bronzer.",
+                "Use a stick foundation 3 shades darker than the model's skin tone.",
+                "Use a grey eyeshadow."
+              ],
+              "solution": "Use a stick foundation 3 shades darker than the model's skin tone.",
+              "feedback": "Correct. Cream/Stick products mimic skin texture. Using a darker foundation creates a shadow that looks intrinsic to the skin rather than sitting on top."
+            },  {
+              "type": "technique_audit",
+              "instruction": "You are attempting a graphic liner but the line looks shaky and uneven. You are using a liquid liner. What should you switch to for better control and smudge-ability?",
+              "options": [
+                "A large marker pen.",
+                "A mechanical gel pencil.",
+                "Loose powder."
+              ],
+              "solution": "A mechanical gel pencil.",
+              "feedback": "Correct. Gel pencils allow you to sketch and smudge the shape into perfection before it sets, whereas liquid liner demands immediate precision."
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "The model has a scar on their eyelid. How do you use the graphic liner to handle it?",
+              "options": [
+                "Avoid the scar completely.",
+                "Incorporate the scar into the design by covering it with the boldest part of the liner/shadow.",
+                "Highlight the scar."
+              ],
+              "solution": "Incorporate the scar into the design by covering it with the boldest part of the liner/shadow.",
+              "feedback": "Excellent. As Hindash demonstrates, bold graphic elements can effectively camouflage texture differences on the lid."
+            }, {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the steps for the 'Body Glow' application.",
+              "items": [
+                "Buff with a large foundation brush.",
+                "Apply cream highlighter stick directly to collarbones/shoulders.",
+                "Set with setting spray."
+              ],
+              "solution": [
+                "Apply cream highlighter stick directly to collarbones/shoulders.",
+                "Buff with a large foundation brush.",
+                "Set with setting spray."
+              ]
+            },
+            {
+              "type": "color_theory",
+              "instruction": "The eyes are dramatic and graphic. To maintain editorial balance, what do you do with the lips?",
+              "options": [
+                "Apply a bright red lipstick.",
+                "Apply a neutral pink and mute it with a beige gloss.",
+                "Leave them dry and bare."
+              ],
+              "solution": "Apply a neutral pink and mute it with a beige gloss.",
+              "feedback": "Correct. A 'Neutral Beige' lip ensures the focus stays on the graphic eyes, creating a balanced, high-fashion composition."
+            }
+          ]
+        }, 
+        {
+          "id": "course_makeup_trends_latte",
+          "title": "Viral Trends Decoded: The 'Latte Makeup' Look",
+          "video_id": "H4A0rK5gc2k",
+          "description": "Master the viral 'Latte Makeup' trend using affordable drugstore products. This monochrome, bronzy look is about effortless glam. We'll break down the specific techniques for creating a seamless, warm-toned base, sculpting with creams and powders, and achieving that signature diffused, smoky latte eye. Remember your Color Theory (Module 3) for selecting the right bronze tones!",
+          "channel_name": "SMLx0",
+          "start": 0,
+          "end": 1055,
+          "xp_reward": 100,
+          "key_learning_outcomes": [
+            "Execute a flawless, full-coverage base using drugstore foundation and concealer.",
+            "Master the technique of layering cream contour underneath powder bronzer for depth and longevity.",
+            "Understand the placement of warm-toned bronzer versus cool-toned contour for a sun-kissed effect.",
+                 "Utilize a fluffy blending brush to create a blown-out, diffused crease with a matte bronze shade.",
+            "Balance the eye look by smoking out the lower lash line with the same crease color.",
+            "Apply shimmer to the center of the lid for dimension, keeping it subtle for a 'sheen' rather than a foil finish.",
+                     "Execute a soap-brow technique for groomed, fluffy brows.",
+            "Apply a precise inner corner highlight to open up the eyes.",
+            "Create a glossy, natural-looking lip combo using a nude liner and a plumping gloss."
+         
+          ],
+          "tasks": [
+            {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the steps for achieving the long-lasting, sculpted base shown in the video.",
+              "items": [
+                "Apply Liquid Foundation.",
+                "Apply Cream Contour/Bronzer.",
+                "Set with Powder Bronzer.",
+                "Apply Concealer."
+              ],
+              "solution": [
+                "Apply Liquid Foundation.",
+                "Apply Concealer.",
+                "Apply Cream Contour/Bronzer.",
+                "Set with Powder Bronzer."
+              ]
+            },
+            {
+              "type": "technique_audit",
+              "instruction": "The instructor applies cream contour and then later applies a powder bronzer. What is the primary purpose of this specific layering technique in the 'Latte Makeup' look?",
+              "options": [
+                "To correct a mistake made with the cream product.",
+                "To add warm color to the face only.",
+                "To reinforce the cream product for longevity and intensify the warm, bronzed effect."
+              ],
+              "solution": "To reinforce the cream product for longevity and intensify the warm, bronzed effect.",
+              "feedback": "Correct. Layering powder over cream locks it in place and builds up that rich, warm color characteristic of the Latte look."
+            },
+              {
+              "type": "tool_mastery",
+              "instruction": "To achieve the blown-out, diffused crease seen in the video, which type of brush is essential?",
+              "options": [
+                "A flat shader brush.",
+                "A fluffy, tapered blending brush.",
+                "A small, dense pencil brush."
+              ],
+              "solution": "A fluffy, tapered blending brush.",
+              "feedback": "Correct. A fluffy blending brush is crucial for diffusing the color into a seamless gradient, avoiding harsh lines for the smoky effect."
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "You are creating the 'Latte Eye' on a client with hooded eyes. Based on the video's advice, how should you adapt the crease shadow placement?",
+              "options": [
+                "Keep the shadow strictly within the natural crease fold.",
+                "Blend the matte shadow all over the lid and up towards the brow bone, past the natural crease.",
+                "Only apply shadow to the outer corner."
+              ],
+              "solution": "Blend the matte shadow all over the lid and up towards the brow bone, past the natural crease.",
+              "feedback": "Correct. Taking the shadow higher creates the illusion of a larger lid and ensures the smoky effect is visible even when the eyes are open."
+            },
+              {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the steps for the glossy lip look shown in the video.",
+              "items": [
+                "Apply a plumping lip gloss.",
+                "Outline and slightly overline lips with a nude lip liner.",
+                "Apply a matte liquid lipstick."
+              ],
+              "solution": [
+                "Outline and slightly overline lips with a nude lip liner.",
+                "Apply a plumping lip gloss."
+              ]
+            },
+            {
+              "type": "color_theory",
+              "instruction": "The overall look is warm and bronzy. Why does a neutral nude lip liner and a pinky-nude gloss work well for this trend?",
+              "options": [
+                "It creates a high contrast with the eye makeup.",
+                "It keeps the look monochromatic and doesn't compete with the bronzed features.",
+                "It introduces a cool tone to balance the warmth."
+              ],
+              "solution": "It keeps the look monochromatic and doesn't compete with the bronzed features.",
+              "feedback": "Correct. The 'Latte' look is about a harmonious, monochromatic color palette. A neutral lip complements the warm tones without overpowering them."
+            }
+          ]
+        } 
+      ]
+    },
+
+    {
+      "id": "course_sfx_halloween",
+      "title": " Special Effects (SFX) - Halloween & Body Transformation",
+      "thumbnail": "assets/thumbnails/sfx_wound.jpg",
+      "description": "Enter the world of Special Effects. In this module, we step away from 'beauty' and focus on realism and anatomy. You will learn to construct a realistic 3D prosthetic directly on the skin using latex and tissue, master the color wheel of bruising (purple, red, yellow), and apply stage blood for varying textures (scab vs. fresh). Warning: This module involves simulated gore.",
+      "sequence_order": 6,
+      "syllabus_context": {
+        "current_module": "Special Effects (SFX) & Halloween",
+        "prerequisites_active": "Module 3: Color Theory (Bruising Wheel), Module 1: Hygiene (Patch Testing Latex)"
+      },
+      "chapters": [
+        {
+          "id": "course_sfx_halloween",
+          "title": "SFX Gore & Illusion: The Open Wound Technique",
+          "video_id": "0cvgZjy7FJM",
+          "description": "In this module, we step away from 'beauty' and focus on realism and anatomy. You will learn to construct a realistic 3D prosthetic directly on the skin using latex and tissue, master the color wheel of bruising (purple, red, yellow), and apply stage blood for varying textures (scab vs. fresh). Warning: This module involves simulated gore.",
+          "channel_name": "Karolina Maria",
+          "start": 0,
+          "end": 900,
+          "xp_reward": 150,
+          "key_learning_outcomes": [
+            "Execute the Latex & Tissue layering technique to build 3D skin.",
+            "Understand the importance of tearing edges for seamless blending.",
+            "Safety: Patch testing latex to prevent allergic reactions.",
+                "Seamlessly blend the prosthetic edges using foundation and powder.",
+            "Technique: Safely cutting latex to create an opening.",
+            "Creating depth by lifting the 'skin flaps'.",
+              "Use the Color Wheel to simulate bruising (Burgundy for fresh, Yellow for old).",
+            "Differentiate between 'Scab Blood' (Internal/Thick) and 'Stage Blood' (Drip/Runny).",
+            "Technique: Random placement for organic realism."
+          ],
+          "tasks": [
+            {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the steps to build the artificial wound base.",
+              "items": [
+                "Apply layer of liquid latex.",
+                "Place torn tissue/cotton pad over latex.",
+                "Repeat layering until desired thickness is achieved."
+              ],
+              "solution": [
+                "Apply layer of liquid latex.",
+                "Place torn tissue/cotton pad over latex.",
+                "Repeat layering until desired thickness is achieved."
+              ]
+            },
+            {
+              "type": "technique_audit",
+              "instruction": "You are applying tissue paper for a wound. You cut the edges with scissors for a straight line. Why is this a mistake in SFX?",
+              "options": [
+                "It looks too neat and is harder to blend into the skin.",
+                "Scissors damage the latex.",
+                "Tissue paper shouldn't be used."
+              ],
+              "solution": "It looks too neat and is harder to blend into the skin.",
+              "feedback": "Correct. In SFX, straight lines look fake. Tearing the paper creates a ragged, organic edge that disappears easily into the skin when painted."
+            }, {
+              "type": "beauty_simulation",
+              "instruction": "You have built the latex mound. Before cutting it open, what must you do to make it look like part of your face?",
+              "options": [
+                "Paint it red immediately.",
+                "Cover it with foundation and powder that matches your skin tone.",
+                "Apply fake blood."
+              ],
+              "solution": "Cover it with foundation and powder that matches your skin tone.",
+              "feedback": "Correct. The prosthetic must look like healthy skin first so that the 'wound' provides a shocking contrast."
+            },
+            {
+              "type": "tool_mastery",
+              "instruction": "What tool is best for creating the incision in the latex?",
+              "options": [
+                "A large kitchen knife.",
+                "Small, blunt-nosed scissors.",
+                "Your fingernails."
+              ],
+              "solution": "Small, blunt-nosed scissors.",
+              "feedback": "Correct. Small scissors give you control to lift and snip the latex without risking cutting the model's actual skin."
+            },  {
+              "type": "color_theory",
+              "instruction": "To create depth *inside* the cut, which color do you apply first?",
+              "items": [
+                "Bright Red",
+                "Black or Dark Burgundy",
+                "Yellow"
+              ],
+              "solution": "Black or Dark Burgundy",
+              "feedback": "Correct. Dark colors recede. Applying black/burgundy deep in the cut simulates the dark cavity of a wound."
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "You want the wound to look like it has been bleeding for a while. Which blood texture do you place *inside* the wound?",
+              "options": [
+                "Thin, watery red food coloring.",
+                "Thick, dark 'Fresh Scab' gel.",
+                "Pink lipstick."
+              ],
+              "solution": "Thick, dark 'Fresh Scab' gel.",
+              "feedback": "Correct. Thick, gelatinous blood stays in place and mimics the texture of coagulating blood inside a deep wound."
+            }
+          ]
+        }, 
+        {
+          "id": "course_tattoo_coverage_body_art",
+          "title": "Invisible Ink: Professional Tattoo Camouflage",
+          "video_id": "FRq3CItiKT4",
+          "description": "In this specialized module, you will learn to erase tattoo ink not by piling on heavy concealer, but by using optical neutralization and alcohol-activated pigments to mimic the translucency and texture of real skin. Essential for film, bridal, and editorial work.",
+          "channel_name": "Pompberry",
+          "start": 0,
+          "end": 1695,
+          "xp_reward": 100,
+          "key_learning_outcomes": [
+            "Analyze tattoo ink undertones (Blue/Green) vs. True Black.",
+            "Apply the Color Wheel: Use Orange/Coral to neutralize Blue/Dark ink.",
+            "Understand the chemistry of Alcohol-Activated paints (Waterproof/Transfer-proof).",
+                "Master the 'Spatter' technique to break up solid color blocks.",
+            "Create 'Organic Noise': Adding veins (blue), irritation (red), and freckles (brown).",
+            "Tool Modification: Cutting a chip brush for random spray patterns.",
+                 "Identify when to use the 'Concealer Sandwich' method (High Mobility Areas).",
+            "Understand the trade-off: Transfer-proof (Alcohol) vs. Flexible (Hybrid).",
+            "Removal Protocol: Soak, Don't Scrub."
+          ],
+          "tasks": [
+            {
+              "type": "color_theory",
+              "instruction": "You are covering a faded tattoo that looks dark teal/blue. According to the color wheel shown, which alcohol paint color must be your first layer?",
+              "items": [
+                "Light Flesh Tone",
+                "Green",
+                "Coral/Orange"
+              ],
+              "solution": "Coral/Orange",
+              "feedback": "Correct. Blue sits opposite Orange on the wheel. Applying Coral neutralizes the darkness into a neutral tone that can then be covered by flesh colors."
+            },
+            {
+              "type": "tool_mastery",
+              "instruction": "What is the only solvent that activates the paints in this palette?",
+              "options": [
+                "Water",
+                "99% Isopropyl Alcohol",
+                "Brush Cleaner"
+              ],
+              "solution": "99% Isopropyl Alcohol",
+              "feedback": "Exactly. These paints are water-resistant. Only 99% Alcohol will activate the pigment for application."
+            },
+                  {
+              "type": "technique_audit",
+              "instruction": "You applied the flesh tone with a flat brush and it looks like a solid plastic patch. What technique should you use to make it look like real skin?",
+              "options": [
+                "Apply a thicker layer of paint.",
+                "Use a cut chip brush to 'spatter' speckles of different flesh tones, breaking up the pattern.",
+                "Powder it heavily."
+              ],
+              "solution": "Use a cut chip brush to 'spatter' speckles of different flesh tones, breaking up the pattern.",
+              "feedback": "Correct. Real skin has 'visual noise' (pores, pigment variance). Spattering mimics this texture, whereas solid painting looks artificial."
+            },
+            {
+              "type": "beauty_simulation",
+              "instruction": "The cover-up matches the skin tone but looks too 'perfect' compared to the surrounding leg area. What detail can you hand-paint to integrate it?",
+              "options": [
+                "A fake tattoo.",
+                "Freckles or small veins that match the surrounding skin.",
+                "More highlighter."
+              ],
+              "solution": "Freckles or small veins that match the surrounding skin.",
+              "feedback": "Perfect. Adding imperfections like freckles or veins fools the eye into perceiving the painted area as natural skin."
+            },
+               {
+              "type": "beauty_simulation",
+              "instruction": "You are covering a tattoo on a shoulder (high movement joint). Thick alcohol paint might wrinkle or crack. What modification do you make?",
+              "options": [
+                "Use only water-based paint.",
+                "Use the 'Hybrid' method: A layer of concealer sandwiched between thin layers of alcohol paint.",
+                "Apply hairspray."
+              ],
+              "solution": "Use the 'Hybrid' method: A layer of concealer sandwiched between thin layers of alcohol paint.",
+              "feedback": "Correct. The concealer adds flexibility to the coverage, preventing the rigid alcohol paints from cracking as the joint moves."
+            },
+            {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the steps for safe removal of alcohol-based body art.",
+              "items": [
+                "Scrub vigorously with a dry towel.",
+                "Soak a pad in remover/oil and hold for 20 seconds.",
+                "Gently wipe away dissolved pigment."
+              ],
+              "solution": [
+                "Soak a pad in remover/oil and hold for 20 seconds.",
+                "Gently wipe away dissolved pigment.",
+                "Scrub vigorously with a dry towel."
+              ]
+            }
+          ]
+        } 
+      ]
+    },
+
+    {
+      "id": "course_business_makeup",
+      "title": "The Art of Business: Building Your Career",
+      "thumbnail": "assets/thumbnails/makeup_business.jpg",
+      "description": "Learn how to turn your hobby into a paycheck. This section covers the essential business tools you need. We will teach you how to take professional photos of your work, how to set your rates correctly, and how to find and keep paying clients.",
+      "sequence_order": 7,
+      "syllabus_context": {
+        "current_module": "The Business of Makeup",
+        "prerequisites_active": "Module 1: Philosophy (Professional Mindset)"
+      },
+      "chapters": [
+        {
+          "id": "ch_brand_community",
+          "title": "Making Money as an Artist",
+          "video_id": "_zJE_ULCaQU",
+          "description": "Being a talented artist is only 50% of the job. In this crucial final module, we pivot from application to entrepreneurship. You will learn how to build a personal brand on social media (specifically YouTube), the reality of monetization and client management, and how to diversify your income so you aren't reliant on just one source.",
+          "channel_name": "Susan Yara",
+          "start": 23,
+          "end": 1740,
+          "xp_reward": 100,
+          "key_learning_outcomes": [
+            "Understand the power of 'Face-Forward' content vs. Portfolio-only posts.",
+            "Identify the unique value of YouTube for building deep client relationships.",
+            "Learn to balance professional expertise with authentic personality.",
+              "Understand the concept of 'Scalable Income' (Content) vs. 'Time-for-Money' (Clients).",
+            "Recognize the slow initial growth of monetization (AdSense/Sponsorships).",
+            "Learn to manage the anxiety of transitioning careers.",
+             "Implement a 'Hybrid' schedule: 1 Polished Video + 1 Raw/Live Video per week.",
+            "Understand that 'Perfectionism' is the enemy of growth.",
+            "Use Live streams to demonstrate real-time problem solving."
+          ],
+          "tasks": [
+            {
+              "type": "beauty_simulation",
+              "instruction": "You have been posting only photos of your client's eyes on Instagram for 2 years but have low engagement. Based on the video's advice, what change should you make?",
+              "options": [
+                "Post more photos of eyes.",
+                "Start posting videos of yourself teaching or talking to build a connection.",
+                "Delete your account."
+              ],
+              "solution": "Start posting videos of yourself teaching or talking to build a connection.",
+              "feedback": "Correct. As Nikki Rose experienced, growth often stagnates until you put *yourself* in front of the camera. People connect with people, not just eyelids."
+            },
+            {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the content hierarchy for building a loyal community.",
+              "items": [
+                "Educational/Helpful Content (No Gatekeeping).",
+                "Sales Pitches.",
+                "Personal Personality/Behind the Scenes."
+              ],
+              "solution": [
+                "Educational/Helpful Content (No Gatekeeping).",
+                "Personal Personality/Behind the Scenes.",
+                "Sales Pitches."
+              ]
+            },
+                   {
+              "type": "beauty_simulation",
+              "instruction": "You are a busy freelancer who wants to start a YouTube channel but 'doesn't have time'. What production strategy from the video allows you to upload more without burnout?",
+              "options": [
+                "Stop sleeping.",
+                "Film 'Uncut' or 'Live' videos that require zero editing.",
+                "Hire an expensive production team immediately."
+              ],
+              "solution": "Film 'Uncut' or 'Live' videos that require zero editing.",
+              "feedback": "Correct. Nikki Rose's 'Nikki Uncut' series proved that raw, unedited content is not only easier to produce but often builds stronger trust with the audience."
+            },
+            {
+              "type": "technique_audit",
+              "instruction": "You receive your first check from a brand deal. What is the financial mistake you should avoid?",
+              "options": [
+                "Spending it all immediately because you think it's a fluke.",
+                "Saving it for taxes and future investment.",
+                "Buying new kits."
+              ],
+              "solution": "Spending it all immediately because you think it's a fluke.",
+              "feedback": "Exactly. Income in this industry is variable. Financial discipline is key to long-term survival."
+            },
+               {
+              "type": "routine_sequencer",
+              "instruction": "Arrange the workflow for a sustainable content career.",
+              "items": [
+                "Film Polished Content (High Edit).",
+                "Film Raw/Live Content (Low/No Edit).",
+                "Engage with Community in Comments."
+              ],
+              "solution": [
+                "Film Polished Content (High Edit).",
+                "Film Raw/Live Content (Low/No Edit).",
+                "Engage with Community in Comments."
+              ]
+            },
+            {
+              "type": "tool_mastery",
+              "instruction": "Why are Live streams (or uncut videos) valuable for a makeup artist's credibility?",
+              "options": [
+                "They are easy.",
+                "They prove you can actually paint without editing tricks or filters.",
+                "They make more money."
+              ],
+              "solution": "They prove you can actually paint without editing tricks or filters.",
+              "feedback": "Correct. In an age of filters, showing your real-time skill and how you fix mistakes live establishes you as a true expert."
+            }
+          ]
+        }
+         
+      ]
+    } 
+  ]
+}
